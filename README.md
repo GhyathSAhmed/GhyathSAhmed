@@ -19,7 +19,10 @@ I'm employed at HN Engineers while also pursuing freelance projects as a data sc
 ### 📫Reach me at
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Ghayath3040?style=social)
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ghyath-ibrahim/)
+
 [![Gmail Badge](https://img.shields.io/badge/-ghayath3040@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ghayath3040@gmail.com)]
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=GhyathSAhmed" alt="GhyathSAhmed">
