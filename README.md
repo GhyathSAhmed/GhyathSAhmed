@@ -22,7 +22,7 @@ I'm employed at HN Engineers while also pursuing freelance projects as a data sc
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ghyath-ibrahim/)
 
-[![Gmail Badge](https://img.shields.io/badge/-ghayath3040@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ghayath3040@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-ghayath3040@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghayath3040@gmail.com)](mailto:ghayath3040@gmail.com)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=GhyathSAhmed" alt="GhyathSAhmed">
